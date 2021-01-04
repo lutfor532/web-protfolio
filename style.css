@@ -1,0 +1,16 @@
+h1{
+    font-size: 30px;
+}
+body{
+    font-family: 'Spectral', serif;
+}
+.highlight{color:orange ;}
+.harf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.harf-width img{
+    width: 100%;
+}
